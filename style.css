@@ -1,0 +1,8 @@
+.app {
+    height: 500px;
+    width: 800px;
+    background: #dfdfdf;
+    border: 2px solid black;
+    margin: 0 auto;
+    position: relative;
+  }
